@@ -1,0 +1,12 @@
+[package]
+name = "triangle"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+ash = { workspace = true }
+ash-window = { workspace = true }
+winit = { workspace = true }
+
+[build-dependencies]
+fs_extra = "1.3.0"
