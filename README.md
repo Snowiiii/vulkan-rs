@@ -5,6 +5,7 @@ This repository provides a collection of examples demonstrating how to use the V
 Many code snippets come from my Engine: https://github.com/ventengine/Vent-Engine/
 
 # Examples
+In all examples the Ash crate is used for Vulkan bindings, winit is used for Windowing
 
 ### [Triangle](./examples/triangle/)
 A Basic colored Triangle using a Vertex and Fragment Shader
